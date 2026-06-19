@@ -1,0 +1,6 @@
+clickhouse_connect
+pydantic
+fastapi
+uvicorn[standard]
+fastapi_keycloak_middleware==1.4.0
+psycopg2-binary
